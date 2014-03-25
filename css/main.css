@@ -1,0 +1,46 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+body{
+	background: #0f142a;
+	font-family: "Times New Roman", Times, serif;
+	line-height: 20px;
+}
+
+img{border:none;}
+
+/* tech: set the width then set the margin: 0px auto will center the tag */
+#top{
+	width: 900px;
+	background: #f0decc;
+	margin: 0px auto;
+	margin-top:15px;
+	position: relative;
+}
+
+#banner {
+	width: 900px;
+	height: 480px;
+	background: #f0decc;
+	margin: 0px auto;
+	border-bottom: 7px solid #f24d00;
+}
+
+.wrapper{
+	width:860px;
+	background: #f0decc;
+	margin: 0px auto;
+	padding: 20px;
+}
+
+#copyright {
+	text-align: center;
+	width: 900px;
+	color: #a9a9a9;
+	margin: 0px auto;
+	font-size: 11px;
+	letter-spacing: 0.5px;
+	padding:16px;
+}
